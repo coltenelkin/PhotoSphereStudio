@@ -1,0 +1,18 @@
+CME 13 July 2025
+Found a website/GitHub project to upload photo spheres to google
+https://maps.moomoo.me/
+
+Need to change the metadata of Skydio photo sphere outputs using the following code:
+in miniconda, navigate to C:\Users\colte\miniconda3\pkgs\exiftool-12.76-pl5321h57928b3_0\bin
+
+Run the following command:
+exiftool -UsePanoramaViewer=true -ProjectionType=equirectangular <image\with\path.jpg>
+
+Upload to the Photo Sphere Studio website
+
+The sharable link from the website doesn't work (drops coords at 0, 0). Instead, the next day I just zoomed into the area of the photo sphere and hovered (with the streetview blue dots/roads turned on). If I had my cursor in the right spot it allowed me to click on the photo sphere, then I could copy the link.
+
+1. Saddle Creek, June 2023: https://maps.app.goo.gl/WgPbMZda4L1FebhS8
+2. Temperance Creek, June 2023: https://maps.app.goo.gl/ZonoWbBuR36aYfPX6
+3. Lake Fork, July 2025: https://maps.app.goo.gl/js1MHaa3B7oaYqTr5
+4. Big Smoky Creek, August 2025 https://maps.app.goo.gl/MseXSa9U63Azmvz17
