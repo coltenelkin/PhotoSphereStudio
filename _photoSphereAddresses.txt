@@ -16,3 +16,5 @@ The sharable link from the website doesn't work (drops coords at 0, 0). Instead,
 2. Temperance Creek, June 2023: https://maps.app.goo.gl/ZonoWbBuR36aYfPX6
 3. Lake Fork, July 2025: https://maps.app.goo.gl/js1MHaa3B7oaYqTr5
 4. Big Smoky Creek, August 2025 https://maps.app.goo.gl/MseXSa9U63Azmvz17
+5. Cascade Dam, September 2025 https://maps.app.goo.gl/doHeEzmDBPoAn67LA
+6. Lowman Nature Ponds, September 2025 https://maps.app.goo.gl/cDUyPc1Zm148WdJN8
