@@ -27,5 +27,6 @@ The sharable link from the website doesn't work (drops coords at 0, 0). Instead,
 13. Hillside to Hollow Reserve, April 2026 https://maps.app.goo.gl/1iFmcaWy47raTwpC6
 14. Redfish Lake, May 2026 https://maps.app.goo.gl/F1H4ezajYEnKkpML8
 15. Martin Lake, June 2026 https://maps.app.goo.gl/EWRGfin3FLVjVvgs9
+16. Bear Creek Transfer Camp, August 2026 https://maps.app.goo.gl/FevTVSSkJ7SUf55N9
 
 
